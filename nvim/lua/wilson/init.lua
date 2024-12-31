@@ -1,0 +1,5 @@
+require("wilson.config.lazy")
+require("wilson.remap")
+require("wilson.set")
+require("wilson.plugins.config.catppuccin")
+require("wilson.plugins.config.lualine")
